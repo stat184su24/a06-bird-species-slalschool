@@ -1,7 +1,7 @@
 ---
 title: "Activity: Bird Species"
-author: "Your Names Here"
-date: "DUE DATE "
+author: "Siddharth Lal"
+date: "7/24/24 "
 output: html_notebook
 ---
 
